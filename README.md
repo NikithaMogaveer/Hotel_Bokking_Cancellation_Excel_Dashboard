@@ -1,4 +1,4 @@
-# Hotel_Bokking_Cancellation_Excel_Dashboard
+# Hotel_Booking_Cancellation_Excel_Dashboard
 
 ## Overview
 
