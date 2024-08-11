@@ -73,16 +73,14 @@ This project analyzes hotel booking data to uncover patterns and insights relate
    - **2017:**
      - Similar trends as previous years, with May having the highest bookings and cancellations.
    - **Insight:** Each year follows a similar pattern, with specific months seeing a spike in both bookings and cancellations, likely due to external factors like holidays, events, or seasonal promotions.
+## Dashboard Overview
+![This is how the dashboard looks like.](HR_Dashboard.png)
+You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/HR_Data_Analytics_PowerBI_Dashboard/releases/download/hr-dashboard-demo-video-v1/HR_clip.mp4)
+
 
 ## Conclusion
 
 The analysis provides actionable insights into booking patterns and cancellation behaviors, allowing hotels to optimize their operations, marketing strategies, and resource management.
-
-## Repository Contents
-
-- **Data Files:** Cleaned dataset used for analysis.
-- **Excel File:** Contains the analysis, pivot tables, and dashboard.
-- **ReadMe.md:** Project documentation.
 
 ## How to Use
 
