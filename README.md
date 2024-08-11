@@ -74,7 +74,7 @@ This project analyzes hotel booking data to uncover patterns and insights relate
      - Similar trends as previous years, with May having the highest bookings and cancellations.
    - **Insight:** Each year follows a similar pattern, with specific months seeing a spike in both bookings and cancellations, likely due to external factors like holidays, events, or seasonal promotions.
 ## Dashboard Overview
-![This is how the dashboard looks like.](Hotel_Dashboard.png))
+![This is how the dashboard looks like.](Hotel_Dashboard.png)
 You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/Hotel_Booking_Cancellation_Excel_Dashboard/releases/download/hotel-dashboard-demo-v1/Hotel_clip.mp4)
 
 ## Conclusion
